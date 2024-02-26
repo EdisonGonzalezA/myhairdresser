@@ -1,0 +1,19 @@
+{
+    "name": "edison/app-salon",
+    "description": "Proyecto Integrador Quinto",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers",
+            "Model\\" : "./models"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edison Gonzalez",
+            "email": "139730204+EdisonGonzalezA@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
